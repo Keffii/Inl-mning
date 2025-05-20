@@ -5,7 +5,7 @@ CC="C:\avr\bin\avr-gcc"
 OBJCOPY="C:\avr\bin\avr-objcopy"
 CFLAGS = -mmcu=$(MCU) -DF_CPU=$(F_CPU) -Wall -Os -I./drive
 
-SRC = main.c
+SRC = main.c gpio_driver.c
 OBJ = $(SRC:.c=.o)
 
 all: $(TARGET).hex

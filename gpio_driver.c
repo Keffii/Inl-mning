@@ -45,7 +45,7 @@ void init_blink(uint8_t pin, uint16_t ms) {
     TCCR1B |= (1 << WGM12); // CTC
     TCCR1B |= prescaler_bits;
     TIMSK1 |= (1 << OCIE1A); // Enable interrupt
-    sei();
+    sei(); //Activate global interrupts
 }
 
 ISR(TIMER1_COMPA_vect) {
