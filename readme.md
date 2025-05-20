@@ -1,5 +1,5 @@
 Uses wokwi for simulation
-Init_blink(pin nummer, blink tid)
+Init_blink(pin nummber, blink time)
 
 Blink time:
 20ms = 20
