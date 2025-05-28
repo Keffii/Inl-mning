@@ -10,8 +10,8 @@
 //Port number 0-13
 
 int main(void) {
-    init_blink(0, 500); //Pin 13, 1sekund
+    init_blink(0, 0);
     while (1) {
-        // Ingenting behövs i huvudloopen
+        
     }
 }

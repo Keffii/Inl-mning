@@ -23,7 +23,7 @@
   "connections": [
     [ "r1:2", "uno:GND.1", "green", [ "h0" ] ],
     [ "led1:C", "r1:1", "green", [ "v0" ] ],
-    [ "led1:A", "uno:1", "green", [ "v67.2", "h124.8" ] ]
+    [ "led1:A", "uno:0", "green", [ "v57.6", "h124.8" ] ]
   ],
   "dependencies": {}
 }
