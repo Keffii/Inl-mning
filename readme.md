@@ -20,6 +20,7 @@ The project is developed for **Arduino Uno** (ATmega328P).
 ---
 
 ## Verification
+<img width="251" alt="Screenshot 2025-05-28 111637" src="https://github.com/user-attachments/assets/c32533c2-c135-446c-a538-95bb4a6ca77d" />
 
 
 
