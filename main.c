@@ -1,12 +1,6 @@
 #include <avr/io.h>
 #include "gpio_driver.h"
 
-//20ms = prescaler = 256 & 1249
-//100ms = prescaler = 256 & 6249
-//500ms = prescaler = 256 & 31249
-// 1sek = prescaler = 256 & 62459
-// 2sek = prescaler = 1024 & 31249
-
 // 20ms = 20
 // 100ms = 100
 // 500ms = 500
