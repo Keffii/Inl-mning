@@ -27,4 +27,4 @@ The project is developed for **Arduino Uno** (ATmega328P).
 ---
 
 **Example:**  
-An LED connected to digital pin 13 blinks with a 1 second interval.
+An LED connected to digital pin 1 blinks with a 1 second interval.
